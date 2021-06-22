@@ -1,6 +1,6 @@
 # skin-cancer-classification-machine-learning
 This repository contains code to train the model for Skin Lesions Classification for benign and malignant classes, trained model and code to use the model.
-Sample Output: ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/b1.jpg?raw=true)
+Sample Output: ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/b1.JPG?raw=true)
 
 # Important Note
  We created a new dataset using the hair removal algorithm(uploaded). Interestingly, this method increased the accuracy of the model from 71% to 86%.
