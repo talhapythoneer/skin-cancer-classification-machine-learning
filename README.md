@@ -9,7 +9,7 @@ You can run for more epochs and increase the accuracy significantly. I didnt upl
 Origianl Dataset link: https://drive.google.com/file/d/134IIAM_GHQ3Dd6zI15HdBTD2ZTM5ATEs/
 
 # Model Details:
-![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/modelDetails.jpg?raw=true)
+![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/modelDetails.JPG?raw=true)
  
 # Using Model
 - Open the ModelLoading.py file
@@ -19,10 +19,10 @@ Origianl Dataset link: https://drive.google.com/file/d/134IIAM_GHQ3Dd6zI15HdBTD2
 # Results
  A few images I used from test set to test the model:
  Class: Malignant
- ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/m1.jpg?raw=true)
+ ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/m1.JPG?raw=true)
  
  Class: Benign
- ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/b2.jpg?raw=true) 
+ ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/b2.JPG?raw=true) 
  
  Class: Malignant
- ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/m2.jpg?raw=true) 
+ ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/m2.JPG?raw=true) 
