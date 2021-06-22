@@ -3,7 +3,7 @@ from keras.preprocessing import image
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-model = load_model("SkinHairRemoved_E120.h5")
+model = load_model("Model/SkinHairRemoved_E120.h5")
 
 path = "malignant/73.jpg"
 
