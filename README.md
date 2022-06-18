@@ -30,3 +30,8 @@ Origianl Dataset link: https://drive.google.com/file/d/134IIAM_GHQ3Dd6zI15HdBTD2
  Class: Malignant
  
  ![alt text](https://github.com/TalhaIrfan/skin-cancer-classification-machine-learning/blob/main/m2.JPG?raw=true) 
+
+
+Let me know in case of any issues or queries.<br />
+Thanks & Regards<br />
+[TalhaPythoneer](https://www.talhapythoneer.com/)
